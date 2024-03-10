@@ -1,4 +1,4 @@
-name: 'Check Files and Folder'
+name: 'CheckFilesFolder'
 
 on:
   push:
