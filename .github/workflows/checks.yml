@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  check_files:
+  check_files_and_folder:
     runs-on: ubuntu-latest
 
     steps:
