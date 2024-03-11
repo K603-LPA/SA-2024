@@ -1,10 +1,10 @@
 name: 'CheckFilesFolder'
 
 on:
-  push:
-    branches: [ "main" ]
+  #push:
+  #  branches: [ "main" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "develop" ]
 
 jobs:
   check_files_and_folder:
